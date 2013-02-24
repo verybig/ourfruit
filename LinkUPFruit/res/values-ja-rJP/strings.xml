@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">アップフルーツリンク</string>
+    <string name="time">時間：$ S</string>
+    <string name="quit">終了する</string>
+    <string name="sure_quit">よろしい出口ですか？</string>
+    <string name="alert_dialog_ok">終了する</string>
+    <string name="alert_dialog_cancel">キャンセル</string>
+</resources>

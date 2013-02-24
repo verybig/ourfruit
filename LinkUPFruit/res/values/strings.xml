@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Fruit link up</string>
+    <string name="time">time：$s</string>
+    <string name="quit">exit</string>
+    <string name="sure_quit">are u sure exit？</string>
+    <string name="alert_dialog_ok">Exit</string>
+    <string name="alert_dialog_cancel">Cancel</string>
+</resources>
