@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="exit">
+        <item>지원 (점수)</item>
+        <item>종료</item>
+        <item>취소</item>
+    </string-array>
+
+</resources>

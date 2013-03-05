@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="exit">
+        <item>Soutien (score)</item>
+        <item>quitter</item>
+        <item>annuler</item>
+    </string-array>
+
+</resources>

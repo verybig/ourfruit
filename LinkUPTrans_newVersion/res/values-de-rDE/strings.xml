@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Transformer</string>
+    <string name="time">Zeit: $ Sekunden</string>
+    <string name="quit">Exit</string>
+    <string name="sure_quit"> OK, um das Spiel zu beenden?</string>
+    <string name="alert_dialog_ok">bestimmen</string>
+    <string name="alert_dialog_cancel">abgebrochen</string>
+</resources>

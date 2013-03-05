@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">transformateurs</string>
+    <string name="time"> temps: $ s </string>
+    <string name="quit">sortie </string>
+    <string name="sure_quit"> êtes-vous sortie sûr?</string>
+    <string name="alert_dialog_ok">sortie</string>
+    <string name="alert_dialog_cancel">cancel</string>
+</resources>

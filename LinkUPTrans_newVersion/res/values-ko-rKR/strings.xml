@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">변신 로봇</string>
+    <string name="time">시간 : $ S</string>
+    <string name="quit">출구</string>
+    <string name="sure_quit">정말 출구입니까?</string>
+    <string name="alert_dialog_ok">출구</string>
+    <string name="alert_dialog_cancel">취소</string>
+</resources>
